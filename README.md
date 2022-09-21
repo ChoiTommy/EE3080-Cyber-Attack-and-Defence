@@ -7,15 +7,13 @@ This project will demonstrate cyber attack and defence techniques over virtual m
   <a href="#setup">Setup</a> •
   <a href="#demo">Demo</a> •
   <a href="#team">Team</a> •
-  <a href="#features">Features</a> •
   <a href="#license">License</a> •
 </p>
 
 ## Setup
 
-### Prerequisites
 - Installation and execution of Oracle VM Virtual Box (Kali Linux, Ubuntu, Windows 11, Windows 10, Windows 7). <br>
-- Use of networking tool, "SNORT" for network intrusion detection. <br>
+- Use of networking tools, "SNORT" for network intrusion detection. <br>
 - Use of Python to create malicious codes. <br>
 - Use of [File.io](https://file.io) to upload and download files with the help of curl scipts. <br>
 
@@ -31,8 +29,6 @@ Glendon Chan Jun Wei <br>
 Choi Hoi To Tommy <br>
 Jonathan Wongso <br>
 Chan Ler, Wayne <br>
-
-## Features
 
 ## License
 The MIT License (MIT)
