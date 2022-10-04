@@ -48,11 +48,13 @@
 > Copyright ©2022 Secured Service. 50 Nanyang Ave, Singapore 639798 <br>
 > All rights reserved. <br>
 
+![Email](../Attack/Email.jpg)
+
 ## 3. Gain access to the computer and navigate through the computer’s directories
 - for technical details refer to this [guide](../Attack/reverse_shell.md)
 
 ## 4. Upload whatever files we want to [file.io](https://file.io)
-- Refer to this [guide](../Attack/uploading_files.md) on how to upload files
+- Refer to this [guide](../Attack/uploading_files.md) on how to upload and download files
 
 ## 5. Find another company as our target to attack
 
