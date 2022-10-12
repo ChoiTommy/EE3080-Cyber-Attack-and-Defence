@@ -3,26 +3,26 @@
 1. Clone the repository from [LOIC GitHub](https://github.com/NewEraCracker/LOIC)
 
 2. Add the Mono (C# runtime implementation) repository to the system
-```bash
-sudo apt install apt-transport-https dirmngr
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
-sudo apt update
+```shell
+$ sudo apt install apt-transport-https dirmngr
+$ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+$ echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
+$ sudo apt update
 ```
 
 3. Install monodevelop
-```bash
-sudo apt-get install monodevelop
+```shell
+$ sudo apt-get install monodevelop
 ```
 
 4. cd to the LOIC directory and install LOIC
-```bash
-bash ./loic.sh install
+```shell
+$ bash ./loic.sh install
 ```
 
 5. Run LOIC
-```bash
-bash ./loic.sh run
+```shell
+$ bash ./loic.sh run
 ```
 
 6. Set the target IP address and port

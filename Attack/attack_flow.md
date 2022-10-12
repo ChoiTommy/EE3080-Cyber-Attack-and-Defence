@@ -1,7 +1,7 @@
 # Attack Flow
 
 ## 1. DDoS to a company’s computer to cause slow network traffic with LOIC
-- Refer to this [guide](../Attack/LOIC.md) on how to launch the attack
+- Refer to this [guide](LOIC.md) on how to launch the attack
 
 ## 2. Send a phishing email with the ‘Network Diagnostic Tool’ to offer a solution to the slow traffic
 
@@ -48,16 +48,18 @@
 > Copyright ©2022 Secured Service. 50 Nanyang Ave, Singapore 639798 <br>
 > All rights reserved. <br>
 
-![Email](../Attack/Email.jpg)
+![Email](Email.jpg)
 
 ## 3. Gain access to the computer and navigate through the computer’s directories
-- for technical details refer to this [guide](../Attack/reverse_shell.md)
+- for technical details refer to this [guide](reverse_shell.md)
 
 ## 4. Upload whatever files we want to [file.io](https://file.io)
-- Refer to this [guide](../Attack/uploading_files.md) on how to upload and download files
+- Refer to this [guide](uploading_files.md) on how to upload and download files
 
-## 5. Find another company as our target to attack
+## 5. Delete the files in the computer
 
-## 6. Perform the same attack again, turns out this company has very good security in place
+## 6. Find another company as our target to attack
 
-## 7. End of our skit
+## 7. Perform the same attack again, turns out this company has very good security in place
+
+## 8. End of our skit

