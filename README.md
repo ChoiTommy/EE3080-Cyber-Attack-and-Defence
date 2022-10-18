@@ -4,24 +4,26 @@ This project will demonstrate cyber attack and defence techniques over virtual m
 
 
 <p align="center">•
-  <a href="#setup">Setup</a> •
-  <a href="#demo">Demo</a> •
+  <a href="#overview">Overview</a> •
+  <a href="#technical-details">Technical details</a> •
   <a href="#team">Team</a> •
   <a href="#disclaimer">Disclaimer</a> •
   <a href="#license">License</a> •
 </p>
 
-## Setup
+## Overview
 
-- Installation and execution of Oracle VM Virtual Box (Kali Linux, Ubuntu, Windows 11, Windows 10, Windows 7). <br>
+- Installation and execution of Oracle VM Virtual Box (virtual machines of Kali Linux, Ubuntu, Windows 11, Windows 10, or Windows 7). <br>
 - Use of networking tools, "SNORT" for network intrusion detection. <br>
-- Use of shell scripts to create malicious codes. <br>
+- Use of shell scripts to perform reverse-shell attack and file manipulation. <br>
+- Use of LOIC (Low Orbit Ion Cannon) to perform DDoS attack. <br>
 - Use of [File.io](https://file.io) to upload and download files with the help of curl scipts. <br>
 
 ## Technical details
-**[Attack Flow](Attack/attack_flow.md)**
+Please refer to our 
+**[Attack Flow](./Attack/attack_flow.md)**
 and
-**[Defence](Defence/defence.md)**
+**[Defence](./Defence/defence.md)**
 
 ## Team
 Song Guo Quan (Group leader)<br>

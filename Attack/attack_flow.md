@@ -1,7 +1,12 @@
 # Attack Flow
 
+## Quick links
+[DoS attack](./LOIC.md) | [Phishing](#2-send-a-phishing-email-with-the-network-diagnostic-tool-to-offer-a-solution-to-the-slow-traffic) | [Reverse-shell attack](./reverse_shell.md) | [Manipulating files](./manipulating_files.md)
+
+---
+
 ## 1. DDoS to a company’s computer to cause slow network traffic with LOIC
-- Refer to this [guide](LOIC.md) on how to launch the attack
+- Refer to this [guide](./LOIC.md) on how to launch the attack
 
 ## 2. Send a phishing email with the ‘Network Diagnostic Tool’ to offer a solution to the slow traffic
 
@@ -48,15 +53,15 @@
 > Copyright ©2022 Secured Service. 50 Nanyang Ave, Singapore 639798 <br>
 > All rights reserved. <br>
 
-![Email](Email.jpg)
+![Email](./Email.jpg)
 
 ## 3. Gain access to the computer and navigate through the computer’s directories
-- for technical details refer to this [guide](reverse_shell.md)
+- for technical details refer to this [guide](./reverse_shell.md)
 
-## 4. Upload whatever files we want to [file.io](https://file.io)
-- Refer to this [guide](uploading_files.md) on how to upload and download files
+## 4. Upload whatever files we want to *file.io*
+- Refer to this [guide](./manipulating_files.md) on how to upload and download files
 
-## 5. Delete the files in the computer
+## 5. Delete the files on the computer
 
 ## 6. Find another company as our target to attack
 

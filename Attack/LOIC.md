@@ -26,6 +26,5 @@ $ bash ./loic.sh run
 ```
 
 6. Set the target IP address and port
-7. Set the attack type to UDP (suggested by GH Copilot; to be changed later)
-8. Set the attack rate to 1000 (suggested by GH Copilot; to be changed later)
-9. Start the attack
+
+7. Start the attack
