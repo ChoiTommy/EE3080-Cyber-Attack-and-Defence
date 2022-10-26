@@ -3,8 +3,6 @@
 ## Quick links
 [Setup](#setup) | [DoS Attack](#defending-dos-attack) | [Reverse-shell Attack](#countering-reverse-shell-attack)
 
----
-
 ## Setup
 1. Install SNORT on the VMs
 

@@ -3,8 +3,6 @@
 ## Quick links
 [DoS attack](./LOIC.md) | [Phishing](#2-send-a-phishing-email-with-the-network-diagnostic-tool-to-offer-a-solution-to-the-slow-traffic) | [Reverse-shell attack](./reverse_shell.md) | [Manipulating files](./manipulating_files.md)
 
----
-
 ## 1. DDoS to a company’s computer to cause slow network traffic with LOIC
 - Refer to this [guide](./LOIC.md) on how to launch the attack
 

@@ -13,8 +13,9 @@
 
 2. Wait for the victim to run the 'Diagnostic Tool' executable file: 
     - Linux:
-        - [NetworkTool.desktop](NetworkTool.desktop) (executable), together with
-        - [victim_linux.sh](victim_linux.sh)
+        - Download this and uncompressed it: [NetworkingTool.tar.gz](./NetworkingTool.tar.gz), or download the following two:
+            - [NetworkTool.desktop](./NetworkTool.desktop) (executable), together with
+            - [victim_linux.sh](./victim_linux.sh)
         - Note: make the .desktop file executable by
             ```shell
             $ chmod +x NetworkTool.desktop 
