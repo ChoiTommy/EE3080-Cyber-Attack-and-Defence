@@ -6,7 +6,7 @@
 ## 1. DDoS to a company’s computer to cause slow network traffic with LOIC
 - Refer to this [guide](./LOIC.md) on how to launch the attack
 
-## 2. Send a phishing email with the ‘Network Diagnostic Tool’ to offer a solution to the slow traffic
+## 2. Send a phishing email with the ‘Network Diagnostic Tool User Guide’ to offer a solution to the slow traffic
 
 > Subject: ACTION REQUIRED: Irregular Internet Activity Detected <br>
 > Date: 19 Feb 2021 05:37:51 -0800 <br>
