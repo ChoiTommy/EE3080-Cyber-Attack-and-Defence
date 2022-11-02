@@ -20,7 +20,7 @@
 >
 > Please run the attached Internet Diagnostic Tool to resolve the issue.
 >
-> The Internet Diagnostic Tool is attached below.
+> The Internet Diagnostic Tool User Guide is attached below.
 >
 > To prevent further irregular activity we will restrict access to your
 > account within 72 hours if you did not run the full internet diagnostic
@@ -51,7 +51,7 @@
 > Copyright ©2022 Secured Service. 50 Nanyang Ave, Singapore 639798 <br>
 > All rights reserved. <br>
 
-![Email](./Email.jpg)
+![Email](./Email.png)
 
 ## 3. Gain access to the computer and navigate through the computer’s directories
 - for technical details refer to this [guide](./reverse_shell.md)
