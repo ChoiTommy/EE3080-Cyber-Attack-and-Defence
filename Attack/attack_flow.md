@@ -1,12 +1,21 @@
 # Attack Flow
 
 ## Quick links
-[DoS attack](./LOIC.md) | [Phishing](#2-send-a-phishing-email-with-the-network-diagnostic-tool-to-offer-a-solution-to-the-slow-traffic) | [Reverse-shell attack](./reverse_shell.md) | [Manipulating files](./manipulating_files.md)
+[Obtaining IP Address](#1-obtaining-victims-ip-address-through-phishing) | [DoS attack](./LOIC.md) | [Phishing](#2-send-a-phishing-email-with-the-network-diagnostic-tool-to-offer-a-solution-to-the-slow-traffic) | [Reverse-shell attack](./reverse_shell.md) | [Manipulating files](./manipulating_files.md)
 
-## 1. DDoS to a company’s computer to cause slow network traffic with LOIC
+## 1. Obtaining Victim’s IP Address Through Phishing
+1. Create an accound for a free website hosting service.
+
+2. Extract the IP_Finder.ZIP file and upload the two files ip.php and ip_log.txt to the root folder of your hosting account.
+
+3. Rename the ip.php to index.php.
+
+4. Set the permission to 777 on ip_log.txt.
+
+## 2. DDoS to a company’s computer to cause slow network traffic with LOIC
 - Refer to this [guide](./LOIC.md) on how to launch the attack
 
-## 2. Send a phishing email with the ‘Network Diagnostic Tool User Guide’ to offer a solution to the slow traffic
+## 3. Send a phishing email with the ‘Network Diagnostic Tool User Guide’ to offer a solution to the slow traffic
 
 > Subject: ACTION REQUIRED: Irregular Internet Activity Detected <br>
 > Date: 19 Feb 2021 05:37:51 -0800 <br>
@@ -53,16 +62,16 @@
 
 ![Email](./Email.png)
 
-## 3. Gain access to the computer and navigate through the computer’s directories
+## 4. Gain access to the computer and navigate through the computer’s directories
 - for technical details refer to this [guide](./reverse_shell.md)
 
-## 4. Upload whatever files we want to *file.io*
+## 5. Upload whatever files we want to *file.io*
 - Refer to this [guide](./manipulating_files.md) on how to upload and download files
 
-## 5. Delete the files on the computer
+## 6. Delete the files on the computer
 
-## 6. Find another company as our target to attack
+## 7. Find another company as our target to attack
 
-## 7. Perform the same attack again, turns out this company has very good security in place
+## 8. Perform the same attack again, turns out this company has very good security in place
 
-## 8. End of our skit
+## 9. End of our skit
