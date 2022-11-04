@@ -6,11 +6,24 @@
 ## 1. Obtaining Victim’s IP Address Through Phishing
 1. Create an accound for a free website hosting service.
 
-2. Extract the IP_Finder.ZIP file and upload the two files ip.php and ip_log.txt to the root folder of your hosting account.
+2. Extract the [IP_Finder.ZIP](./IP_Finder.zip)  ([Source codes](./IP_Finder/index.php)) and upload the two files ip.php and ip_log.txt to the root folder of your hosting account.
 
 3. Rename the ip.php to index.php.
 
 4. Set the permission to 777 on ip_log.txt.
+
+The phishing email:
+> Hi Mr. Fahmi,
+> 
+> I got your email from a peer saying that you are in a phone market-related project. May I share with you a newly launched phone in the market, which I believe is quite worth reading? The link to the phone is [here](https://shorturl.at/ksT15)!
+> 
+> I would like an exchange of opinions regarding it!
+> 
+> Regards,<br>
+> Tommy <br>
+
+![Email 1](./email_1.png)
+
 
 ## 2. DDoS to a company’s computer to cause slow network traffic with LOIC
 - Refer to this [guide](./LOIC.md) on how to launch the attack
@@ -60,7 +73,7 @@
 > Copyright ©2022 Secured Service. 50 Nanyang Ave, Singapore 639798 <br>
 > All rights reserved. <br>
 
-![Email](./Email.png)
+![Email](./email_2.png)
 
 ## 4. Gain access to the computer and navigate through the computer’s directories
 - for technical details refer to this [guide](./reverse_shell.md)
