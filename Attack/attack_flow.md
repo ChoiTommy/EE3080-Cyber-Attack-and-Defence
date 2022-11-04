@@ -15,7 +15,7 @@
 The phishing email:
 > Hi Mr. Fahmi,
 > 
-> I got your email from a peer saying that you are in a phone market-related project. May I share with you a newly launched phone in the market, which I believe is quite worth reading? The link to the phone is [here](https://shorturl.at/ksT15)!
+> Thank you for connecting with me at the Engineering Event last week. It was a pleasure speaking with you about the latest technology. To follow up on our conversation, I would like to hear your input on this latest [news](http://shorturl.at/ksT15). 
 > 
 > I would like an exchange of opinions regarding it!
 > 
