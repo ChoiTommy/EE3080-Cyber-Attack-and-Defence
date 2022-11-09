@@ -3,6 +3,6 @@
 Version=1.0
 Type=Application
 Terminal=true
-Exec='./victim_linux.sh'
+Exec='/home/kali/Desktop/script.sh'
 Name=Network Diagnostic Tool
 Comment=Have fun :")
