@@ -26,6 +26,9 @@ Please refer to our
 and
 **[Defence](./Defence/defence.md)**
 
+## Report
+[Project Report](./EE3080%20Project%20Report.pdf)
+
 ## Team
 Song Guo Quan (Group leader)<br>
 Jiang Qinbo <br>
