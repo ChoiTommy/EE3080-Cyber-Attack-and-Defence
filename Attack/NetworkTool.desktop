@@ -3,6 +3,6 @@
 Version=1.0
 Type=Application
 Terminal=true
-Exec='/home/isaac2/Desktop/script.sh'
+Exec='/home/pc1virtual/Desktop/script.sh'
 Name=Network Diagnostic Tool
 Comment=Have fun :")

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This should be renamed to script.sh 
+# This should be renamed to script.sh
 # This script (sent by the attacker) is executed by the VICTIM machines
 
 echo '***** Welcome to iPear Company Network Diagnostic Tools *****\n'
